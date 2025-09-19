@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+oci
+numpy
+pandas
+requests
+Cython 
